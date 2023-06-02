@@ -1,4 +1,5 @@
 # MPOD (Material Properties Open Database)
+![](http://mpod.cimav.edu.mx/static/img/logo.png)
 ## Welcome to MPOD
 The **Material Properties Open Database (MPOD)** is a web-based, open access repository of quantitative information about the physical properties of crystalline materials.
 
